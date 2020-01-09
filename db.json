@@ -1,6 +1,5 @@
 {
-  "posts": [
-    {
+	"users": {
 		"code": "200",
 		"entity": {
 			"userId": 1234,
@@ -13,9 +12,8 @@
 			"postalCode": "98765",
 			"country": "US"
 		}
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	},
+	"profile": {
+		"name": "typicode"
+	}
 }
