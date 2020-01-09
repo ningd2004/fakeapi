@@ -1,19 +1,19 @@
 {
-	"users": {
-		"code": "200",
-		"entity": {
-			"userId": 1234,
-			"fullName": "Jane Doe",
-			"emailAddress": "jane_doe@mail.com",
-			"addressLine1": "123 Main St",
-			"addressLine2": "Unit 101",
-			"city": "Any Town",
-			"state": "California",
-			"postalCode": "98765",
-			"country": "US"
-		}
-	},
-	"profile": {
-		"name": "typicode"
-	}
+  "users": {
+    "code": "200",
+    "entity": {
+      "userId": 1234,
+      "fullName": "Jane Doe",
+      "emailAddress": "jane_doe@mail.com",
+      "addressLine1": "123 Main St",
+      "addressLine2": "Unit 101",
+      "city": "Any Town",
+      "state": "California",
+      "postalCode": "98765",
+      "country": "US"
+    }
+  },
+  "profile": {
+    "name": "typicode"
+  }
 }
